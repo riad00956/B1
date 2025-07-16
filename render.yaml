@@ -1,16 +1,8 @@
+
 services:
   - type: web
-    name: ff-diamond-bot
+    name: ff-tpbot
     env: node
-    region: oregon
-    plan: free
     buildCommand: npm install
     startCommand: node bot.js
     autoDeploy: true
-    envVars:
-      - key: BOT_TOKEN
-        value: 7634927433:AAFEFLNY9sPxpR3Z40hFOkSM51dbNkHbEUk
-      - key: OPENAI_API_KEY
-        value: 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
-      - key: ADMIN_ID
-        value: "7832264582"
