@@ -1,0 +1,130 @@
+{
+  "EVO3D": {
+    "name": "3 Day Evo Access",
+    "price": 80
+  },
+  "EVO7D": {
+    "name": "7 Day Evo Access",
+    "price": 120
+  },
+  "EVO30D": {
+    "name": "30 Day Evo Access",
+    "price": 400
+  },
+  "EVO30Dx2": {
+    "name": "30 Day Evo Access \u00d72",
+    "price": 650
+  },
+  "WEEK1": {
+    "name": "Weekly Lite \u00d71",
+    "price": 45
+  },
+  "WEEK2": {
+    "name": "Weekly Lite \u00d72",
+    "price": 90
+  },
+  "WEEK3": {
+    "name": "Weekly Lite \u00d73",
+    "price": 135
+  },
+  "WEEK5": {
+    "name": "Weekly Lite \u00d75",
+    "price": 225
+  },
+  "WEEK10": {
+    "name": "Weekly Lite \u00d710",
+    "price": 450
+  },
+  "D25": {
+    "name": "25\ud83d\udc8e",
+    "price": 28
+  },
+  "D50": {
+    "name": "50\ud83d\udc8e",
+    "price": 45
+  },
+  "D115": {
+    "name": "115\ud83d\udc8e",
+    "price": 95
+  },
+  "D240": {
+    "name": "240\ud83d\udc8e",
+    "price": 185
+  },
+  "D355": {
+    "name": "355\ud83d\udc8e",
+    "price": 270
+  },
+  "D480": {
+    "name": "480\ud83d\udc8e",
+    "price": 360
+  },
+  "D610": {
+    "name": "610\ud83d\udc8e",
+    "price": 490
+  },
+  "D725": {
+    "name": "725\ud83d\udc8e",
+    "price": 595
+  },
+  "D850": {
+    "name": "850\ud83d\udc8e",
+    "price": 630
+  },
+  "D1090": {
+    "name": "1090\ud83d\udc8e",
+    "price": 805
+  },
+  "D1240": {
+    "name": "1240\ud83d\udc8e",
+    "price": 900
+  },
+  "D1480": {
+    "name": "1480\ud83d\udc8e",
+    "price": 1120
+  },
+  "D1720": {
+    "name": "1720\ud83d\udc8e",
+    "price": 1270
+  },
+  "D1850": {
+    "name": "1850\ud83d\udc8e",
+    "price": 1350
+  },
+  "D2090": {
+    "name": "2090\ud83d\udc8e",
+    "price": 1500
+  },
+  "D2530": {
+    "name": "2530\ud83d\udc8e",
+    "price": 1690
+  },
+  "D3140": {
+    "name": "3140\ud83d\udc8e",
+    "price": 2400
+  },
+  "D3770": {
+    "name": "3770\ud83d\udc8e",
+    "price": 2700
+  },
+  "D5060": {
+    "name": "5060\ud83d\udc8e",
+    "price": 3670
+  },
+  "D10120": {
+    "name": "10120\ud83d\udc8e",
+    "price": 6900
+  },
+  "WEEKLY": {
+    "name": "Weekly Membership",
+    "price": 165
+  },
+  "MONTHLY": {
+    "name": "Monthly Membership",
+    "price": 800
+  },
+  "LEVELPASS": {
+    "name": "Level Up Pass",
+    "price": 170
+  }
+}
