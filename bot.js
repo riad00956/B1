@@ -9,7 +9,7 @@ const { Configuration, OpenAIApi } = require("openai");
 const app = express();
 app.use(bodyParser.json());
 
-const PORT = process.env.PORT || 7777;
+const PORT = process.env.PORT || 2229;
 const URL = process.env.WEBHOOK_URL;
 
 const bot = new TelegramBot(process.env.BOT_TOKEN);
