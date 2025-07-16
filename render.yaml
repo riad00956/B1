@@ -1,12 +1,12 @@
 services:
-  - type: web
-    name: ff-diamond-bot
-    env: node
-    region: oregon
-    plan: free
-    buildCommand: npm install
-    startCommand: node bot.js
-    autoDeploy: true
+  - type: web                    # ওয়েব সার্ভিস
+    name: ff-diamond-bot         # Render অ্যাপের নাম
+    env: node                    # Node.js environment
+    region: oregon               # ডিপ্লয় রিজিয়ন
+    plan: free                   # ফ্রি প্ল্যান
+    buildCommand: npm install    # build করার সময় চলবে
+    startCommand: node bot.js    # অ্যাপ চালানোর কমান্ড
+    autoDeploy: true             # প্রতি push এ অটো ডিপ্লয়
     envVars:
       - key: BOT_TOKEN
         value: 7634927433:AAFEFLNY9sPxpR3Z40hFOkSM51dbNkHbEUk
@@ -15,6 +15,6 @@ services:
       - key: ADMIN_ID
         value: "7832264582"
       - key: WEBHOOK_URL
-        value: https://your-render-app-name.onrender.com
+        value: https://your-render-app-name.onrender.com  # এটিতে তোমার অ্যাপের সঠিক URL বসাও
       - key: PORT
-        value: "2229"
+        value: "2229"           # Express server fallback পোর্ট (Render নিজে PORT সেট করবে)
